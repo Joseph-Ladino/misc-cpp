@@ -1,0 +1,7 @@
+[submodule "FirstDiscordBot/deps/sleepy-discord"]
+	path = FirstDiscordBot/deps/sleepy-discord
+	url = https://github.com/yourWaifu/sleepy-discord.git
+[submodule "TitanfallFanboyBot/deps/sleepy-discord"]
+	path = TitanfallFanboyBot/deps/sleepy-discord
+	url = https://github.com/yourWaifu/sleepy-discord.git
+	branch = develop
